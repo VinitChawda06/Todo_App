@@ -51,9 +51,6 @@ Before running the application, make sure you have the following installed:
 
 Contributions are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
 
 ## Contact
 
